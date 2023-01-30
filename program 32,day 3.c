@@ -37,11 +37,3 @@ int main() {
 	printf("\nTotal Page Faults:\t%d\n", pageFaults);
 	return 0;
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
